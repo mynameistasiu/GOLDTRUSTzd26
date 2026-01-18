@@ -7,7 +7,7 @@ import { loadTx } from "../utils/storage";
 
 
 const CODE_PRICE = 8000;
-const WA = '+2347084749682';
+const WA = '+2347031109818';
 
 export default function BuyCode() {
   const router = useRouter();
@@ -103,9 +103,9 @@ export default function BuyCode() {
             <div className="bg-white p-4 rounded-2xl shadow-lg border border-gray-200 space-y-1">
               <p className="font-semibold text-center text-gray-800">Bank Details</p>
               <hr className="my-2"/>
-              <p>Account Name: <b>Usman Abdulrahim</b></p>
-              <p>Account Number: <b>6511699109</b></p>
-              <p>Bank: <b>Moniepoint</b></p>
+              <p>Account Name: <b>Badaru Bashir</b></p>
+              <p>Account Number: <b>2083544413</b></p>
+              <p>Bank: <b>Kuda Moniespoint</b></p>
               <p>Amount: <b>₦{CODE_PRICE.toLocaleString()}</b></p>
 <p>Status: <b>PROMO 85% Discount 🔥💸💰 </b></p>
             </div>
