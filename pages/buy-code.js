@@ -105,7 +105,7 @@ export default function BuyCode() {
               <hr className="my-2"/>
               <p>Account Name: <b>Badaru Bashir</b></p>
               <p>Account Number: <b>2083544413</b></p>
-              <p>Bank: <b>Kuda Moniespoint</b></p>
+              <p>Bank: <b>Kuda Bank</b></p>
               <p>Amount: <b>₦{CODE_PRICE.toLocaleString()}</b></p>
 <p>Status: <b>PROMO 85% Discount 🔥💸💰 </b></p>
             </div>
